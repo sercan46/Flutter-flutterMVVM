@@ -1,0 +1,16 @@
+{
+    "login":{
+        "title":"Flutter MVVM",
+        "email":"User Email Adress",
+        "password":"Password",
+        "login":"Login",
+        "forgot_password":"Forgot Password"
+    },
+    "forgot_password":{
+        "submit_verification_code":"Submit Verification Code",    
+        "enter_verification_code":"Enter Verifitaion Code",
+        "verification_code":"Verification Code",
+        "confirm_password":"Confirm Password",
+        "okey":"Ok"
+    }
+}

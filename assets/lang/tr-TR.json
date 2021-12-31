@@ -1,0 +1,17 @@
+{
+    "login":{
+        "title":"Flutter MVVM",
+        "email":"Kullanıcı Email Adresi",
+        "password":"Şifre",
+        "login":"Giriş Yap",
+        "forgot_password":"Şifremi Unuttum"
+       
+    },
+    "forgot_password":{
+        "submit_verification_code":"Doğrulama Kodu Gönder",
+        "enter_verification_code":"Doğrulama Kodu Giriniz",
+        "verification_code":"Doğrulama Kodu",
+        "confirm_password":"Şifre Tekrarı",
+        "okey":"Tamam"
+    }
+}
